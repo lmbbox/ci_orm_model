@@ -12,4 +12,4 @@ CodeIgniter ORM Model is a CodeIgniter core class which extends the default CI_M
 	// Load the ci_orm_model spark
 	$this->load->spark('ci_orm_model/0.0.1');
 
-See the examples models for functional usage.
+See the examples models and controller for functional use.
