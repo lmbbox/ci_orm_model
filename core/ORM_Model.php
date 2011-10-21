@@ -9,7 +9,7 @@
  * @copyright	Copyright (c) 2009 - 2011, LMB^Box
  * @license		GNU Lesser General Public License (http://www.gnu.org/copyleft/lgpl.html)
  * @link		http://lmbbox.com/projects/ci-orm-model/
- * @version		Version 0.0.1
+ * @since		Version 0.0.1
  * @filesource
  */
 
@@ -984,7 +984,7 @@ class CI_ORM_Model extends CI_Model {
 	 * @access	public
 	 * @param	array|string	$where
 	 * @param	bool			$escape
-	 * @return	int|bool
+	 * @return	bool
 	 */
 	final public function record_exists($where = NULL, $join = NULL, $escape = TRUE)
 	{
@@ -2149,4 +2149,4 @@ class CI_ORM_Model extends CI_Model {
 }
 
 /* End of file ORM_Model.php */
-/* Location: ./sparks/ci_orm_model/0.0.1/core/ORM_Model.php */
+/* Location: ./application/core/ORM_Model.php */

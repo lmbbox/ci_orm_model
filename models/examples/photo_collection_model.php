@@ -40,4 +40,4 @@ class Photo_Collection_Model extends CI_ORM_Model {
 }
 
 /* End of file photo_collection_model.php */
-/* Location: ./sparks/ci_orm_model/0.0.1/models/photo_collection_model.php */
+/* Location: ./application/models/photo_collection_model.php */

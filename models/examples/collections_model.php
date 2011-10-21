@@ -40,4 +40,4 @@ class Collections_Model extends CI_ORM_Model {
 }
 
 /* End of file collections_model.php */
-/* Location: ./sparks/ci_orm_model/0.0.1/models/collections_model.php */
+/* Location: ./application/models/collections_model.php */

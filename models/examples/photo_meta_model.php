@@ -44,4 +44,4 @@ class Photo_Meta_Model extends CI_ORM_Model {
 }
 
 /* End of file photo_meta_model.php */
-/* Location: ./sparks/ci_orm_model/0.0.1/models/photo_meta_model.php */
+/* Location: ./application/models/photo_meta_model.php */

@@ -49,4 +49,4 @@ class Photos_Model extends CI_ORM_Model {
 }
 
 /* End of file photos_model.php */
-/* Location: ./sparks/ci_orm_model/0.0.1/models/photos_model.php */
+/* Location: ./application/models/photos_model.php */

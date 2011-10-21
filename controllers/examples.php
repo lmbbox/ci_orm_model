@@ -102,4 +102,4 @@ class Examples extends CI_Controller {
 }
 
 /* End of file examples.php */
-/* Location: ./sparks/ci_orm_model/0.0.1/controllers/examples.php */
+/* Location: ./application/controllers/examples.php */

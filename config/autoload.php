@@ -7,4 +7,4 @@ $autoload['language'] = array();
 $autoload['model'] = array();
 
 /* End of file autoload.php */
-/* Location: ./sparks/ci_orm_model/0.0.1/config/autoload.php */
+/* Location: ./application/config/autoload.php */
